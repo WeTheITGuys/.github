@@ -1,3 +1,3 @@
-This repo contains public profile for `WeTheITGuys` org
+It acts as a fallback for all of your repositories that don't have an actual `.github` directory with issue templates and other community health files
 
-Contents of /profile/README.md is visible to public.
+This repo contains public profile for `WeTheITGuys` org
